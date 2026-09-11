@@ -1,4 +1,8 @@
 # thuchanh
+cách chạy bài mở terminal
+gõ cd thuchanh
+gõ flutter run
+nếu có hiện chọn web mà mình muốn hiển thị
 
 A new Flutter project.
 
